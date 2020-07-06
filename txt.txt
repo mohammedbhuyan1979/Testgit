@@ -1,0 +1,2 @@
+
+hello people this is my first git repository i have created
